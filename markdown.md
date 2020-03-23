@@ -22,6 +22,12 @@ beneficiarios (personas más afectadas y vulnerables por el COVID19).
 Login Google
 Login Faceboock
 
+## Pasarelas de pago 
+- Epay
+- Payu
+- Paypal
+
+
 ## Métodos
 - GET (para recuperar)
 - POST (para enviar data)
