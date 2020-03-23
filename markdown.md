@@ -20,7 +20,8 @@ beneficiarios (personas más afectadas y vulnerables por el COVID19).
 
 ## Clientes SDK 
 Login Google
-Login Faceboock
+Login Facebook
+Login Sencillo
 
 ## Pasarelas de pago 
 - Epay
