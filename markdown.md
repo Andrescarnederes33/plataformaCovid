@@ -5,16 +5,18 @@ beneficiarios (personas más afectadas y vulnerables por el COVID19).
 >la plataforma web contará con las siguientes funcionalidades:
 1. Login de registro e inicio de sesión para colaboradores y beneficiarios
 2. Obtener insignia de colaborador
-3. Contador de beneficiarios, colaboradores
-4. Sección donaciones (Pasarelas de pago)
-5. Historias (Stories) (Proyectos, eventos) opcional *AMP*
+3. gestionar recursos recaudados a los beneficiarios de manera equitativa y aleatoria
+4. Contador de beneficiarios, colaboradores
+5. Sección donaciones (Pasarelas de pago)
+6. Historias (Stories) (Proyectos, eventos) *opcional AMP (Stories)*
 
 >Motivaciones que llevaron a crear el proyecto
-- Ayudar a las personas mayores y retribuir lo que han hecho por algunos de nosotros
 - Poder ser útil y reconocidos en todo el país
+- Crear una plataforma de nivel internacional
   
 ## Wireframe detallado
 
+![Enlace](https://theleakycauldron.store/public/img/RFCs.png)
 
 ## Clientes SDK 
 Login Google
@@ -49,7 +51,7 @@ Los colaboradores pueden ayudar con donaciones y/o Crowdsourcing que se puede in
 <!-- **Negrita** -->
 <!-- ***Negrita con cursiva*** -->
 <!-- [Enlace](http://google.com/) -->
-<!-- ![Enlace](https://superconcretos.co/public/src/img/logo.png)
+<!-- ![Enlace](https://theleakycauldron.store/public/img/RFCs.png)
 <http://enlacesintitulo>
     
     Esto es un `codigo`
